@@ -1,5 +1,3 @@
-I'm interested in...
-
 - 👋 Hi, I’m @rash200319
 - 👀 I’m interested in robotics, automation and web development 
 - 🌱 I’m currently learning ros2, java, c++, react
