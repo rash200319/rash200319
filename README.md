@@ -2,7 +2,7 @@
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 <h1 align="center">Hi 👋, I'm Rashmi Paboda</h1>
-<h3 align="center">I'm a computer science engineering student at UOM</h3>
+<h3 align="center">I'm a computer science and engineering student at UOM</h3>
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=rash200319&"  />
