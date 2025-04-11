@@ -14,11 +14,18 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rash200319&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/><br/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rash200319&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+</div>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rash200319&theme=radical&no-frame=false&no-bg=false&margin-w=4)<br/><br/>
-![](https://nirzak-streak-stats.vercel.app/?user=rash200319&theme=dark&hide_border=false)<br/><br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rash200319&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=rash200319&theme=dark&hide_border=false" alt="Streak Stats" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rash200319&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+</p>
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
