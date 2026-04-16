@@ -9,15 +9,6 @@
 </div>
 📫 How to reach me rashmip.23@cse.mrt.ac.lk <br>
 
-<h3 align="left">Languages and Tools:</h3>
-
-
-
-# 📊 GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rash200319&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
-</div>
-
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
