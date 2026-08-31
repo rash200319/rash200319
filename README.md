@@ -20,7 +20,7 @@ I build applied AI systems for healthcare and reliable software — from clinica
 ### What I focus on
 - Clinical & healthcare AI (risk prediction, explainability, dual-model systems)
 - Production-oriented ML systems and data pipelines
-- LLM agents, RAG, and durable workflows (LangChain / LlamaIndex / Temporal)
+- LLM agents, RAG (LlamaIndex / Temporal)
 - Full-stack platforms with FastAPI, Next.js, and Docker
 
 ---
