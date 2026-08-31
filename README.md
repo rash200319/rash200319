@@ -39,7 +39,7 @@ I build applied AI systems for healthcare and reliable software — from clinica
 ### Tech I use
 
 **Languages:** Python, TypeScript, JavaScript, SQL, C++  
-**AI / ML:** scikit-learn, XGBoost, PyTorch basics, SHAP, LangChain, LlamaIndex, RAG, agents  
+**AI / ML:** scikit-learn, XGBoost, SHAP, LlamaIndex, RAG, agents  
 **Backend & systems:** FastAPI, Node.js, Temporal, PostgreSQL, SQLite, Redis, Docker  
 **Frontend:** Next.js, React, Streamlit  
 **Cloud / tools:** AWS (learning deeply), GitHub Actions, Git
