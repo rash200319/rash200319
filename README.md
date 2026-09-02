@@ -20,7 +20,6 @@ I build applied AI systems for healthcare and reliable software — from clinica
 ### What I focus on
 - Clinical & healthcare AI (risk prediction, explainability, dual-model systems)
 - Production-oriented ML systems and data pipelines
-- LLM agents, RAG (LlamaIndex / Temporal)
 - Full-stack platforms with FastAPI, Next.js, and Docker
 
 ---
@@ -38,21 +37,21 @@ I build applied AI systems for healthcare and reliable software — from clinica
 
 ### Tech I use
 
-**Languages:** Python, TypeScript, JavaScript, SQL, C++  
+**Languages:** Python, TypeScript, JavaScript, SQL  
 **AI / ML:** scikit-learn, XGBoost, SHAP, LlamaIndex, RAG, agents  
-**Backend & systems:** FastAPI, Node.js, Temporal, PostgreSQL, SQLite, Redis, Docker  
+**Backend & systems:** FastAPI, Node.js, PostgreSQL, SQLite, Redis, Docker ,mysql
 **Frontend:** Next.js, React, Streamlit  
 **Cloud / tools:** AWS, GitHub Actions, Git
 
 ---
 
 ### Currently
-- Strengthening production AI patterns (model serving, agents, reliable workflows)
-- Open to **Software Engineering / AI Platform** internships, especially in healthtech
+- Strengthening production AI patterns (model training, agents, reliable workflows)
+- Open to **Software Engineering** internships
 
 ---
 
-### Quick links
+### Wins
 - 🏆 BioFusion Hackathon 2026 — 1st place (AI/ML)
 - 🏁 AITHON 2026 — Top 30 (BloomCare)
 - 🏁 Proxy Maze ’26 — Top 10 (VerifyShelf)
