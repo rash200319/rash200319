@@ -65,16 +65,11 @@
 ### 📊 The numbers
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rash200319&show_icons=true&theme=dracula&hide_border=true&bg_color=0d0d0d&title_color=B794F6&icon_color=B794F6&text_color=e2d9ff" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rash200319&layout=compact&theme=dracula&hide_border=true&bg_color=0d0d0d&title_color=B794F6&text_color=e2d9ff" width="30%" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rash200319&theme=dracula&hide_border=true&background=0d0d0d&ring=B794F6&fire=8b5cf6&currStreakLabel=B794F6" width="60%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rash200319&theme=dracula&no-frame=true&margin-w=10&column=7" />
+  <img src="https://raw.githubusercontent.com/rash200319/rash200319/main/github-metrics.svg" width="90%" />
 </p>
 
 <br>
